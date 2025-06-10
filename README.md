@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Santhosh+-+Full+Stack+Developer)](https://git.io/typing-svg)
+
 # 👋 Hi, I’m Santhosh
 
 I’m a passionate web developer focused on building scalable, user-centric applications with modern technologies. My expertise lies in MERN stack development, and I’m currently expanding my skills in **REACT-NATIVE** and API integrations.
@@ -8,7 +10,6 @@ I’m a passionate web developer focused on building scalable, user-centric appl
 - 📚 **Currently Learning**: Advanced **NEXT.js** concepts and integrating the **FIREBASE**.
 - 🤝 **Collaboration**: Open to collaborating on impactful projects, particularly in **ed-tech**, **job platforms**, and real-time applications.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Santhosh+-+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## 📫 How to Reach Me
 
