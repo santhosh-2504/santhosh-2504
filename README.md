@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Quizara**
 
-- 👨‍💻 All of my projects are available at [https://admin.vitaminjob.com](https://admin.vitaminjob.com)
-
 - 💬 Ask me about **React, NextJS, NodeJs, MongoDB, Express**
 
 - 📫 How to reach me **santhoshanantha58@gmail.com**
