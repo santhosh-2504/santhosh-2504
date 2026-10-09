@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh-2504&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh-2504" /> </p>
 
-- 🔭 I’m currently working on [Exameets](https://exameets-user.vercel.app/)
-
 - 🌱 I’m currently learning **TypeScript, Docker, Firebase**
-
-- 👯 I’m looking to collaborate on [VitaminJob](https://vitaminjob.com)
 
 - 🤝 I’m looking for help with **Quizara**
 
@@ -15,7 +11,7 @@
 
 - 📫 How to reach me **santhoshanantha58@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1CGQ-Bc9jCz7sexNhIgPWMefvOI_4zxsn](https://drive.google.com/uc?export=download&id=1CGQ-Bc9jCz7sexNhIgPWMefvOI_4zxsn)
+- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1qBRyMp9h5HVy48GzMSA85v6i6xyKt8vu](https://drive.google.com/uc?export=download&id=1qBRyMp9h5HVy48GzMSA85v6i6xyKt8vu)
 
 - ⚡ Fun fact **I made 2 games which only I play**
 
